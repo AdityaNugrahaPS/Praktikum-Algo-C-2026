@@ -1,4 +1,4 @@
-import random
+
 x = 2  # int
 y = 2.8  # float
 z = 5j  # complex
@@ -16,4 +16,5 @@ print(type(b))
 print(type(c))
 
 # Nomor Random
+import random
 print(random.randrange(1, 10))

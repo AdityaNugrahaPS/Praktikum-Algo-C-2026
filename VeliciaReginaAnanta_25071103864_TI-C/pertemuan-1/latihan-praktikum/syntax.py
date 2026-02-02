@@ -5,7 +5,7 @@ print('Haloo Semua')
 print('Haloo')
 print('Namaku')
 print('Velicia')
+#print('Haloo'); print('Namaku'); print('Velicia')
 
-print('Haloo')
-print('Namaku')
-print('Velicia')
+# New Line
+print ('\n')
